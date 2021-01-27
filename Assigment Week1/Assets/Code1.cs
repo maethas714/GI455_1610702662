@@ -34,7 +34,7 @@ public class Code1 : MonoBehaviour
         {
             textDisplay.GetComponent<Text>().text = "[" + name + "]is Found";
         }
-        else if (name != "Mango"+ "Computer"+"Google"+"Uncharted04"+"Unreal")
+        else if (name != "Mango"+ "Computer"+"Google"+"Uncharted4"+"Unreal")
         {
             textDisplay.GetComponent<Text>().text = "[" + name + "]is not Found";
         }
